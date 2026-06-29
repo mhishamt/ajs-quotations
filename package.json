@@ -1,0 +1,10 @@
+{
+  "name": "ajs-quotations",
+  "version": "1.0.0",
+  "description": "AJS Trading & Contracting - Quotation Management System",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
